@@ -1,7 +1,18 @@
 #!/bin/bash 
 
+# ----------------------------------------------------------
+# File    : log-analyzer.sh
+# Purpose : Count ERROR and WARNING messages in a log file
+#
+# Concepts Covered:
+# - grep
+# - wc
+# - File existence check
+# - Variables
+# - Command substitution
+# ----------------------------------------------------------
 
-echo "What is the user logfilename?"
+echo "Enter the logfile path:"
 read logfile
 
 if [ -f "$logfile" ]

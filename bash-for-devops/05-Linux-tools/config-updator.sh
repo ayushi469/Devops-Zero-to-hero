@@ -1,5 +1,17 @@
 #!/bin/bash 
 
+# ----------------------------------------------------------
+# File    : config-updater.sh
+# Purpose : Replace text inside a configuration file
+#
+# Concepts Covered:
+# - sed
+# - User input
+# - File existence check
+# - Variables
+# ----------------------------------------------------------
+
+
 echo "What is filename"
 read file
 
