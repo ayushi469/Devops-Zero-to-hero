@@ -1,16 +1,25 @@
 #!/bin/bash 
 
+# ----------------------------------------------------------
+# File    : calculator.sh
+# Purpose : Perform basic arithmetic using functions
+#
+# Concepts Covered:
+# - Functions
+# - Function parameters
+# - Arithmetic expansion
+# - User input using read
+# ----------------------------------------------------------
 
-calculator() {
+
+
+add_calculator() {
 	c=$(( $1 + $2 ))
 	echo "Addition of number is "$1" and "$2" is: $c"
 }
 
 calculator $1 $2
 
-
-
-## other way :
 
 substract_calculator() {
 	a=$1
