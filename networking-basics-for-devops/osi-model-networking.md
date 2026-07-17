@@ -442,20 +442,3 @@ Devices:
 
 ---
 
-# Interview Tips for DevOps Engineers
-
-You should be comfortable answering:
-
-- What is an IP Address?
-- What is a Subnet?
-- What is CIDR?
-- Difference between Public and Private Subnet?
-- Explain DNS Resolution.
-- Explain the TCP Three-Way Handshake.
-- Difference between TCP and UDP.
-- Explain all OSI layers.
-- Difference between the OSI and TCP/IP models.
-- At which OSI layer does a Router work?
-- At which OSI layer does a Switch work?
-- Why is TCP used for HTTP/HTTPS?
-- Why does DNS commonly use UDP?
