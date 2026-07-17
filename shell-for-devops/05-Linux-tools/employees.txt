@@ -1,0 +1,4 @@
+Ayushi DevOps 50000
+Rahul Linux 45000
+Priya AWS 70000
+Aman Docker 65000

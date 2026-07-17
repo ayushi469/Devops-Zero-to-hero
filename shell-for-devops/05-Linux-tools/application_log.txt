@@ -1,0 +1,6 @@
+INFO Server Started
+INFO Login Success
+Ayushi Database Failed
+WARNING Low Memory
+Ayushi Connection Lost
+INFO Shutdown
